@@ -1,12 +1,12 @@
 <?php
 
-namespace Artesaos\SEOTools\Providers;
+namespace farukix\SEOTools\Providers;
 
-use Artesaos\SEOTools\Contracts;
-use Artesaos\SEOTools\OpenGraph;
-use Artesaos\SEOTools\SEOMeta;
-use Artesaos\SEOTools\SEOTools;
-use Artesaos\SEOTools\TwitterCards;
+use farukix\SEOTools\Contracts;
+use farukix\SEOTools\OpenGraph;
+use farukix\SEOTools\SEOMeta;
+use farukix\SEOTools\SEOTools;
+use farukix\SEOTools\TwitterCards;
 use Illuminate\Config\Repository as Config;
 use Illuminate\Support\ServiceProvider;
 

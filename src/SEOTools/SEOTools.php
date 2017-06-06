@@ -1,14 +1,14 @@
 <?php
 
-namespace Artesaos\SEOTools;
+namespace farukix\SEOTools;
 
-use Artesaos\SEOTools\Contracts\MetaTags;
-use Artesaos\SEOTools\Contracts\SEOTools as SEOContract;
+use farukix\SEOTools\Contracts\MetaTags;
+use farukix\SEOTools\Contracts\SEOTools as SEOContract;
 
 class SEOTools implements SEOContract
 {
     /**
-     * @return \Artesaos\SEOTools\Contracts\MetaTags
+     * @return \farukix\SEOTools\Contracts\MetaTags
      */
     public function metatags()
     {
@@ -16,7 +16,7 @@ class SEOTools implements SEOContract
     }
 
     /**
-     * @return \Artesaos\SEOTools\Contracts\OpenGraph
+     * @return \farukix\SEOTools\Contracts\OpenGraph
      */
     public function opengraph()
     {
@@ -24,7 +24,7 @@ class SEOTools implements SEOContract
     }
 
     /**
-     * @return \Artesaos\SEOTools\Contracts\TwitterCards
+     * @return \farukix\SEOTools\Contracts\TwitterCards
      */
     public function twitter()
     {
@@ -36,7 +36,7 @@ class SEOTools implements SEOContract
      *
      * @param string $title
      *
-     * @return \Artesaos\SEOTools\Contracts\SEOTools
+     * @return \farukix\SEOTools\Contracts\SEOTools
      */
     public function setTitle($title)
     {
@@ -52,7 +52,7 @@ class SEOTools implements SEOContract
      *
      * @param $description
      *
-     * @return \Artesaos\SEOTools\Contracts\SEOTools
+     * @return \farukix\SEOTools\Contracts\SEOTools
      */
     public function setDescription($description)
     {
@@ -68,7 +68,7 @@ class SEOTools implements SEOContract
      *
      * @param string $url
      *
-     * @return \Artesaos\SEOTools\Contracts\SEOTools
+     * @return \farukix\SEOTools\Contracts\SEOTools
      */
     public function setCanonical($url)
     {
@@ -80,7 +80,7 @@ class SEOTools implements SEOContract
     /**
      * @param array|string $urls
      *
-     * @return \Artesaos\SEOTools\Contracts\SEOTools
+     * @return \farukix\SEOTools\Contracts\SEOTools
      */
     public function addImages($urls)
     {

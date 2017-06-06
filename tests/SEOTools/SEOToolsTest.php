@@ -1,11 +1,11 @@
 <?php
 
-namespace Artesaos\SEOTools\Tests;
+namespace farukix\SEOTools\Tests;
 
-use Artesaos\SEOTools\Contracts\MetaTags;
-use Artesaos\SEOTools\Contracts\OpenGraph;
-use Artesaos\SEOTools\Contracts\TwitterCards;
-use Artesaos\SEOTools\SEOTools;
+use farukix\SEOTools\Contracts\MetaTags;
+use farukix\SEOTools\Contracts\OpenGraph;
+use farukix\SEOTools\Contracts\TwitterCards;
+use farukix\SEOTools\SEOTools;
 
 /**
  * Class SEOToolsTest.

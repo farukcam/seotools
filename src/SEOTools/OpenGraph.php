@@ -1,8 +1,8 @@
 <?php
 
-namespace Artesaos\SEOTools;
+namespace farukix\SEOTools;
 
-use Artesaos\SEOTools\Contracts\OpenGraph as OpenGraphContract;
+use farukix\SEOTools\Contracts\OpenGraph as OpenGraphContract;
 
 class OpenGraph implements OpenGraphContract
 {

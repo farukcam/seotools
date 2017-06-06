@@ -1,7 +1,7 @@
 <?php
 
-namespace Artesaos\SEOTools\Tests\stubs;
-use Artesaos\SEOTools\Traits\SEOTools;
+namespace farukix\SEOTools\Tests\stubs;
+use farukix\SEOTools\Traits\SEOTools;
 
 /**
  * Class SeoToolsTraitStub

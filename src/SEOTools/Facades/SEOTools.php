@@ -1,6 +1,6 @@
 <?php
 
-namespace Artesaos\SEOTools\Facades;
+namespace farukix\SEOTools\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

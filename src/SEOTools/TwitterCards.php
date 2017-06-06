@@ -1,8 +1,8 @@
 <?php
 
-namespace Artesaos\SEOTools;
+namespace farukix\SEOTools;
 
-use Artesaos\SEOTools\Contracts\TwitterCards as TwitterCardsContract;
+use farukix\SEOTools\Contracts\TwitterCards as TwitterCardsContract;
 
 class TwitterCards implements TwitterCardsContract
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Artesaos\SEOTools\Tests;
+namespace farukix\SEOTools\Tests;
 
 use Orchestra\Testbench\TestCase;
 use Mockery as m;
@@ -23,7 +23,7 @@ abstract class BaseTest extends TestCase
 
     protected function getPackageProviders($app)
     {
-        return ['Artesaos\SEOTools\Providers\SEOToolsServiceProvider'];
+        return ['farukix\SEOTools\Providers\SEOToolsServiceProvider'];
     }
 
     /**

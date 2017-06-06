@@ -1,8 +1,8 @@
 <?php
 
-namespace Artesaos\SEOTools;
+namespace farukix\SEOTools;
 
-use Artesaos\SEOTools\Contracts\MetaTags as MetaTagsContract;
+use farukix\SEOTools\Contracts\MetaTags as MetaTagsContract;
 use Illuminate\Config\Repository as Config;
 
 class SEOMeta implements MetaTagsContract

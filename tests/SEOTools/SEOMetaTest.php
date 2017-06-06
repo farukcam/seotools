@@ -1,8 +1,8 @@
 <?php
 
-namespace Artesaos\SEOTools\Tests;
+namespace farukix\SEOTools\Tests;
 
-use Artesaos\SEOTools\SEOMeta;
+use farukix\SEOTools\SEOMeta;
 
 /**
  * Class SEOMetaTest.

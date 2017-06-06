@@ -1,6 +1,6 @@
 <?php
 
-namespace Artesaos\SEOTools\Tests;
+namespace farukix\SEOTools\Tests;
 
 /**
  * Class SEOToolsServiceProviderTest.
@@ -30,20 +30,20 @@ class SEOToolsServiceProviderTest extends BaseTest
     {
         return [
             [
-                'Artesaos\SEOTools\Contracts\MetaTags',
-                'Artesaos\SEOTools\SEOMeta',
+                'farukix\SEOTools\Contracts\MetaTags',
+                'farukix\SEOTools\SEOMeta',
             ],
             [
-                'Artesaos\SEOTools\Contracts\OpenGraph',
-                'Artesaos\SEOTools\OpenGraph',
+                'farukix\SEOTools\Contracts\OpenGraph',
+                'farukix\SEOTools\OpenGraph',
             ],
             [
-                'Artesaos\SEOTools\Contracts\SEOTools',
-                'Artesaos\SEOTools\SEOTools',
+                'farukix\SEOTools\Contracts\SEOTools',
+                'farukix\SEOTools\SEOTools',
             ],
             [
-                'Artesaos\SEOTools\Contracts\TwitterCards',
-                'Artesaos\SEOTools\TwitterCards',
+                'farukix\SEOTools\Contracts\TwitterCards',
+                'farukix\SEOTools\TwitterCards',
             ],
         ];
     }
