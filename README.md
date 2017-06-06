@@ -2,20 +2,6 @@
 
 SEOTools is a package for **Laravel 5+** and **Lumen** that provides helpers for some common SEO techniques.
 
-> Current Build Status
-
-[![Build Status](https://travis-ci.org/farukix/seotools.svg)](https://travis-ci.org/farukix/seotools)
-[![Code Climate](https://codeclimate.com/github/farukix/seotools/badges/gpa.svg)](https://codeclimate.com/github/farukix/seotools)
-[![Codacy Badge](https://www.codacy.com/project/badge/36bce2b4929e4f3387d26b8a26e5c667)](https://www.codacy.com/app/luiz-vinicius73/seotools)
-
-> Statistics
-
-[![Latest Stable Version](https://poser.pugx.org/farukix/seotools/v/stable)](https://packagist.org/packages/farukix/seotools) [![Total Downloads](https://poser.pugx.org/farukix/seotools/downloads)](https://packagist.org/packages/farukix/seotools) [![Latest Unstable Version](https://poser.pugx.org/farukix/seotools/v/unstable)](https://packagist.org/packages/farukix/seotools) [![License](https://poser.pugx.org/farukix/seotools/license)](https://packagist.org/packages/farukix/seotools)
-
-> Tips
-
-<a href="http://zenhub.io" target="_blank"><img src="https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png" height="18px" alt="Powered by ZenHub"/></a>
-
 ## Features
 - Friendly Interface
 - Ease of set titles and meta tags
